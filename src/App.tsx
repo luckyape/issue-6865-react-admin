@@ -5,10 +5,7 @@ import firebase from "firebase/compat/app";
 
 import { getStorage, connectStorageEmulator } from "firebase/storage";
 const firebaseConfig = {
-  apiKey: "AIzaSyBJbXsrD99nN_IxMFfgSex8nuzq7XQRjgc",
-  projectId: "hellograham",
-  storageBucket: "hellograham.appspot.com",
-  appId: "1:107943486538:web:03b5730c8282a7f3d9b2b3",
+
 };
 
 let firebaseApp;
